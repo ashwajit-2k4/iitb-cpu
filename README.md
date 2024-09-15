@@ -10,7 +10,7 @@ S1: Fetch\
 S2: Operand Read\
 S3: Execute\
 S4: Update\
-S5: Immediate Addi=on (T1)\
+S5: Immediate Addition (T1)\
 S6: Memory Read\
 S7: Immediate Addition (T2)\
 S8: Memory Write\
@@ -22,7 +22,7 @@ S13: Store Reg B in IP (Reg 7)\
 S14: Add Immediate to IP\
 S15: Store T3 in Reg A\
 S16: LLI Sign extension\
-S17: Store T3 in Reg B\
+S17: Store T3 in Reg B
 
 ### Operation Flow
 ADD, SUB, MUL, AND, ORA, IMP: S1 -> S2 -> S3 -> S4\
