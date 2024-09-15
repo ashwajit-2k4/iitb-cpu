@@ -1,7 +1,7 @@
 # Multi-Cycle Processor in VHDL
 
 This project was done as part of a Digital Systems course in a team of three, and involved making a functional multi-cycle processor 
-in VHDL, implementing the ISA as described in Problem_statement.pdf. The controller had 14 states, and this state diagram describes the flow of states for various instructions
+in VHDL, implementing the ISA as described in Problem_statement.pdf. The controller had 14 states, and this state diagram describes the flow of states for various instructions. It was then successfully implemented on a MAX 10 FPGA.
 
 <img src="EE224_States.jpg" alt="drawing" width="600"/>
 
